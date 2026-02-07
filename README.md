@@ -1,8 +1,8 @@
 ## About me 
-👋 Hello there, I'm Van Tran 
-🤔 I'm interested in cloud computing & system design as well as automation. I'm also proficient in Linux architecture and Docker.
-🌱 I'm a senior at San Diego State University
-😄 I just want to learn more!!
+- 👋 Hello there, I'm Van Tran 
+- 🤔 I'm interested in cloud computing & system design as well as automation. I'm also proficient in Linux architecture and Docker.
+- 🌱 I'm a senior at San Diego State University
+- 😄 I just want to learn more!!
 <!--
 **VHT209/VHT209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
